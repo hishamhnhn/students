@@ -8,8 +8,12 @@
 </head>
 <body style="background-color: aquamarine;">
     <tr>
+<<<<<<< HEAD
         <td> Name rukh </td> <br>
 	<td> Name 2nd change </td> <br>
+=======
+        <td> Name hisham</td> <br>
+>>>>>>> 0d66209653a1e4d3de0887b4d34a31716bbc13a2
 
         <td> Registration no</td>s
     </tr>
